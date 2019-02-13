@@ -1,2 +1,2 @@
-# repo-poem
-Repository for poem
+# Neural Network
+Repository for NN
